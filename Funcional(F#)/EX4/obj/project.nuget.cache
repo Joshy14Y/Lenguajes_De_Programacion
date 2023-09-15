@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t/YYikSAgVlgC2GWWHdTgQF27oqjqwoJ6qqQ+VxHiWLdu/eaVzUk/gB05U/kk6zGEoCJJUqshkxM+DzR/nzAzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joshua\\Desktop\\Programación Funcional\\Practica\\EX4\\EX4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joshua\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
