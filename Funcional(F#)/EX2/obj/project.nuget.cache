@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hAlyeRF1txMc+BwI9M763OS67z7miqxgvcTpbYU3xFI5uuoH+onC/F6Llwu69KkFkp0WZTKcTLtr1Ofhy6lPSw==",
+  "dgSpecHash": "QI/u15FcC438QcQmO/XS7EdVZuzIrZC8xRiObIOJxV6hGnyPajGIzadQ5qE/47D8k0fVzOOP9mDbIuyZ/npUCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joshua\\Desktop\\Programación Funcional\\Practica\\EX2\\EX2.fsproj",
+  "projectFilePath": "C:\\Users\\Joshua\\Desktop\\Lenguajes_de_ Programacion\\Funcional(F#)\\EX2\\EX2.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joshua\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
   ],

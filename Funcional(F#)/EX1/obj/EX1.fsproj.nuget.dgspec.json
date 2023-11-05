@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joshua\\Desktop\\Programación Funcional\\Practica\\EX1\\EX1.fsproj": {}
+    "C:\\Users\\Joshua\\Desktop\\Lenguajes_de_ Programacion\\Funcional(F#)\\EX1\\EX1.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\Joshua\\Desktop\\Programación Funcional\\Practica\\EX1\\EX1.fsproj": {
+    "C:\\Users\\Joshua\\Desktop\\Lenguajes_de_ Programacion\\Funcional(F#)\\EX1\\EX1.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joshua\\Desktop\\Programación Funcional\\Practica\\EX1\\EX1.fsproj",
+        "projectUniqueName": "C:\\Users\\Joshua\\Desktop\\Lenguajes_de_ Programacion\\Funcional(F#)\\EX1\\EX1.fsproj",
         "projectName": "EX1",
-        "projectPath": "C:\\Users\\Joshua\\Desktop\\Programación Funcional\\Practica\\EX1\\EX1.fsproj",
+        "projectPath": "C:\\Users\\Joshua\\Desktop\\Lenguajes_de_ Programacion\\Funcional(F#)\\EX1\\EX1.fsproj",
         "packagesPath": "C:\\Users\\Joshua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joshua\\Desktop\\Programación Funcional\\Practica\\EX1\\obj\\",
+        "outputPath": "C:\\Users\\Joshua\\Desktop\\Lenguajes_de_ Programacion\\Funcional(F#)\\EX1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
